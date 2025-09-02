@@ -1,0 +1,16 @@
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\bin\Debug\BlueWave Bank.exe.config
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\bin\Debug\BlueWave Bank.exe
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\bin\Debug\BlueWave Bank.pdb
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave Bank.csproj.AssemblyReference.cache
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave_Bank.Properties.Resources.resources
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave Bank.csproj.GenerateResource.cache
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave Bank.csproj.CoreCompileInputs.cache
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave Bank.exe
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave Bank.pdb
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave Bank.exe.config
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave_Bank.MainScreen.resources
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave_Bank.ClientsTransactionsScreen.resources
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave_Bank.ManageClientsScreen.resources
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave_Bank.UI.General_Screens.HomeScreen.resources
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave_Bank.ManageUsersScreen.resources
+C:\Users\GO\Desktop\programming_files\BlueWave Bank\obj\Debug\BlueWave_Bank.LoginScreen.resources
