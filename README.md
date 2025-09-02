@@ -21,10 +21,10 @@ It allows users to log in, manage clients, perform transactions, and manage othe
 ![Login](./screenshots/login.png)  
 
 ### Dashboard  
-![Dashboard](./screenshots/dashboard.png)  
+![Dashboard](./screenshots/home.png)  
 
 ### Transactions  
-![Transactions](./screenshots/transactions.png)  
+![Transactions](./screenshots/transfer.png)  
 
 👉 More screenshots in the [`/screenshots`](./screenshots) folder.  
 
