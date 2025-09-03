@@ -15,7 +15,6 @@ It allows users to log in, manage clients, perform transactions, and manage othe
 ---
 
 ## 🖼️ Screenshots  
-*(Add these in a `/screenshots` folder)*  
 
 ### Login Screen  
 ![Login](./screenshots/login.png)  
